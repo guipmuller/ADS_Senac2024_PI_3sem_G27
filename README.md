@@ -32,7 +32,8 @@ O projeto consiste na modelagem e prototipagem de um sistema web direcionado a i
 
 ![Diagrama de casos de uso do sistema de gestão escolar](https://github.com/guipmuller/ADS_Senac2024_PI_3sem_G27/blob/readme-docs/files/public/images/diagrama-casos-uso-sistema-gestao-escolar.png)
   Diagrama de casos de uso do sistema de gestão escolar
-![Diagrama de classes do sistema de gestão escolar](https://github.com/guipmuller/ADS_Senac2024_PI_3sem_G27/blob/readme-docs/files/public/images/diagrama-casos-uso-sistema-gestao-escolar.png)
+  
+![Diagrama de classes do sistema de gestão escolar](https://github.com/guipmuller/ADS_Senac2024_PI_3sem_G27/blob/readme-docs/files/public/images/diagrama-classes-sistema-gestao-escolar.png)
   Diagrama de classes do sistema de gestão escolar
 
 ## Autores
