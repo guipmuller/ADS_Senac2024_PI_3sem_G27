@@ -17,6 +17,16 @@ O projeto consiste na modelagem e prototipagem de um sistema web direcionado a i
 - O sistema deve permitir que os professores insiram vídeo-aulas no formato MP4, MOV, WMV ou AVI.
 #### RF5 - Visualização de Aulas
 - O sistema deve permitir que os alunos assistam às video-aulas postadas pelos professores.
+  
+## Requisitos Não-Funcionais
+
+- RNF1: O sistema deve ser capaz de lidar com um grande volume de cadastros de alunos, professores e fornecedores sem comprometer o desempenho.
+- RNF2: O tempo de resposta para a postagem de aulas não deve exceder 5 segundos.
+- RNF3: O acesso ao sistema deve ser protegido por autenticação, exigindo nome de usuário e senha válidos.
+- RNF4: Os dados dos alunos, professores, e fornecedores devem ser armazenados de forma segura, seguindo as melhores práticas de segurança da informação.
+- RNF5: A interface do sistema deve ser intuitiva e de fácil utilização, para que tanto o secretário quanto o departamento financeiro possam realizar suas tarefas sem treinamento extensivo.
+- RNF6: O sistema deve ser compatível com diferentes dispositivos e navegadores para garantir acessibilidade para todos os usuários.
+- RNF7: O sistema deve ser altamente confiável, minimizando o tempo de inatividade e garantindo a disponibilidade das funcionalidades essenciais durante o horário de trabalho.
 
 ## Autores
 
