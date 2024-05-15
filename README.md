@@ -28,6 +28,13 @@ O projeto consiste na modelagem e prototipagem de um sistema web direcionado a i
 - RNF6: O sistema deve ser compatível com diferentes dispositivos e navegadores para garantir acessibilidade para todos os usuários.
 - RNF7: O sistema deve ser altamente confiável, minimizando o tempo de inatividade e garantindo a disponibilidade das funcionalidades essenciais durante o horário de trabalho.
 
+## Modelagem
+
+![Diagrama de casos de uso do sistema de gestão escolar](https://github.com/guipmuller/ADS_Senac2024_PI_3sem_G27/blob/readme-docs/files/public/images/diagrama-casos-uso-sistema-gestao-escolar.png)
+  Diagrama de casos de uso do sistema de gestão escolar
+![Diagrama de classes do sistema de gestão escolar](https://github.com/guipmuller/ADS_Senac2024_PI_3sem_G27/blob/readme-docs/files/public/images/diagrama-casos-uso-sistema-gestao-escolar.png)
+  Diagrama de classes do sistema de gestão escolar
+
 ## Autores
 
 - Alexandra Monaliza dos Santos [@Monalizasantos](https://www.github.com/Monalizasantos)
