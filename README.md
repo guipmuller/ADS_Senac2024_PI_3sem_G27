@@ -3,7 +3,7 @@ Repositório do projeto integrador do grupo 27 do curso de Análise e Desenvolvi
 
 ## Introdução
 
-    O projeto consiste na modelagem e prototipagem de um sistema web direcionado a instituições de ensino. O projeto é focado nesse primeiro momento nas etapas de cadastro de pessoas físicas e jurídicas, além de algumas funcionalidades básicas. 
+O projeto consiste na modelagem e prototipagem de um sistema web direcionado a instituições de ensino. O projeto é focado nesse primeiro momento nas etapas de cadastro de pessoas físicas e jurídicas, além de algumas funcionalidades básicas. 
 
 ## Autores
 
