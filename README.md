@@ -40,13 +40,19 @@ O projeto consiste na modelagem e prototipagem de um sistema web direcionado a i
 
 ## Protótipos de Interface
 
-- Protótipos em construção.
+- [Veja os protótipos de interface](https://www.canva.com/design/DAGFI0FqVio/rBTow_PD38vf3O_ys_F2jA/edit)
 
 ## Autores
 
+![default](/ADS_Senac2024_PI_3sem_G27/files/public/images/defautlgithubimg.png)
 - Alexandra Monaliza dos Santos [@Monalizasantos](https://www.github.com/Monalizasantos)
+![Anderson Ferreira da Silva](/ADS_Senac2024_PI_3sem_G27/files/public/images/anderson.png)
 - Anderson Ferreira da Silva [@4ndferreira](https://www.github.com/4ndferreira)
+![Amanda Priscilla Maria do Nascimento Silva](/ADS_Senac2024_PI_3sem_G27/files/public/images/amanda.png)
 - Amanda Priscilla Maria do Nascimento Silva [@amandanscmt](https://www.github.com/amandanscmt)
+![default](/ADS_Senac2024_PI_3sem_G27/files/public/images/defautlgithubimg.png)
 - Ana Paula da Costa Lima [@anapaulalimax](https://www.github.com/anapaulalimax)
+![Lucas Correa Gauto](/ADS_Senac2024_PI_3sem_G27/files/public/images/luks.png)
 - Lucas Correa Gauto [@DevLuksgauto](https://www.github.com/DevLuksgauto)
+![Guilherme Pinto Muller](/ADS_Senac2024_PI_3sem_G27/files/public/images/guiga.png)
 - Guilherme Pinto Muller [@guipmuller](https://www.github.com/guipmuller)
