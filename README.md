@@ -40,7 +40,11 @@ O projeto consiste na modelagem e prototipagem de um sistema web direcionado a i
 
 ## Protótipos de Interface
 
-- Protótipos em construção.
+
+![Fluxograma com os protótipos de interface](https://github.com/guipmuller/ADS_Senac2024_PI_3sem_G27/blob/andSilva/files/public/images/fluxogramaDePaginas.png)
+
+- [Veja os protótipos de interface](https://www.canva.com/design/DAGFI0FqVio/rBTow_PD38vf3O_ys_F2jA/edit)
+
 
 ## Autores
 
