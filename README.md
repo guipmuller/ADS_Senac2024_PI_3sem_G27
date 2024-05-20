@@ -50,7 +50,7 @@ O projeto consiste na modelagem e prototipagem de um sistema web direcionado a i
 ![Preview_Prototipo_Interface_004](https://github.com/guipmuller/ADS_Senac2024_PI_3sem_G27/blob/readme-docs/files/public/images/%5BDCU03%5D%20Cadastro%20de%20Fornecedores.jpg)
 
 #### Acesso ao repositório completo das imagens do protótipo de interface
-- [Veja os protótipos de interface](https://www.canva.com/design/DAGFI0FqVio/_fmequIOBjY31sgaNDH46Q/watch?utm_content=DAGFI0FqVio&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- [Veja os protótipos de interface]([https://www.canva.com/design/DAGFI0FqVio/_fmequIOBjY31sgaNDH46Q/watch?utm_content=DAGFI0FqVio&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGFI0FqVio/_fmequIOBjY31sgaNDH46Q/watch?utm_content=DAGFI0FqVio&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## Autores
 
