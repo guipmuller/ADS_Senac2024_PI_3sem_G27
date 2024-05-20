@@ -40,11 +40,17 @@ O projeto consiste na modelagem e prototipagem de um sistema web direcionado a i
 
 ## Protótipos de Interface
 
-
+#### Fluxograma com os protótipos de interface
 ![Fluxograma com os protótipos de interface](https://github.com/guipmuller/ADS_Senac2024_PI_3sem_G27/blob/andSilva/files/public/images/fluxogramaDePaginas.png)
 
-- [Veja os protótipos de interface](https://www.canva.com/design/DAGFI0FqVio/rBTow_PD38vf3O_ys_F2jA/edit)
+#### Imagens preview dos protótipos de interface
+![Preview_Prototipo_Interface_001](https://github.com/guipmuller/ADS_Senac2024_PI_3sem_G27/blob/readme-docs/files/public/images/%5BDCU01%5D%20Gerenciamento%20de%20aulas%20(2).jpg)
+![Preview_Prototipo_Interface_002](https://github.com/guipmuller/ADS_Senac2024_PI_3sem_G27/blob/readme-docs/files/public/images/%5BDCU01%5D%20Gerenciamento%20de%20aulas.jpg)
+![Preview_Prototipo_Interface_003](https://github.com/guipmuller/ADS_Senac2024_PI_3sem_G27/blob/readme-docs/files/public/images/%5BDCU02%5D%20Matr%C3%ADcula%20de%20Alunos%20e%20Professores.jpg)
+![Preview_Prototipo_Interface_004](https://github.com/guipmuller/ADS_Senac2024_PI_3sem_G27/blob/readme-docs/files/public/images/%5BDCU03%5D%20Cadastro%20de%20Fornecedores.jpg)
 
+#### Acesso ao repositório completo das imagens do protótipo de interface
+- [Veja os protótipos de interface](https://www.canva.com/design/DAGFI0FqVio/rBTow_PD38vf3O_ys_F2jA/edit)
 
 ## Autores
 
